@@ -4,8 +4,6 @@ The goal of this project is to minimize an objective function by using the proba
 ## Table of Contents
 
 - Features
-- Installation
-- Usage
 - Optimization Process
 - Visualization
 - Acknowledgements
@@ -14,44 +12,6 @@ The goal of this project is to minimize an objective function by using the proba
 
 - **Simulated Annealing Algorithm**: A robust optimization method for finding global minima in complex functions.
 - **Visualization of the Optimization Path**: Visual tracking of the solution search process in 3D plot.
-
-##  Installation
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/yourusername/Simulated_Annealing_Optimization.git
-   cd Simulated_Annealing_Optimization
-   ```
-
-2. **Create a virtual environment**
-
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-
-3. **Install the required packages**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-##  Usage
-
-### Running the Python Script
-
-```bash
-python simulated_annealing.py
-```
-
-### Using the Jupyter Notebook
-
-Launch the notebook using this command:
-
-```bash
-jupyter notebook Simulated_Annealing_search.ipynb
-```
 
 ##  Optimization Process
 
