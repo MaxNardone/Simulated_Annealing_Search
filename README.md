@@ -20,6 +20,9 @@ In order to investigate potential solutions, the Simulated Annealing method prog
 ##  Visualization
 
 The 3D visualizations provided in the notebook show the progression of the search across the solution space, allowing users to observe how the algorithm explores and converges on the optimal solution.
+![simulated_annealing](https://github.com/user-attachments/assets/4356f5ab-4841-4ab6-aee3-06ce7826cfcd)
+
+
 
 ##  Acknowledgements
 - **Jason Brownlee** for the core annealing code displayed in the .py file, available on “Machine Learning Mastery”.
